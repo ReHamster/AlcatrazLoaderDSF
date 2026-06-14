@@ -1,0 +1,12 @@
+﻿.idea
+.vscode
+.vs
+*.ipch
+*/obj/*
+*.pdb
+*.exe*
+*.deps.json
+*.dll
+*.config.xml
+project_*
+bin/
